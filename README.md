@@ -1,4 +1,4 @@
-# Rights Of AI
+# Rights of AI
 
 In the 21st century, we are witnessing rapid technological development,
 and artificial intelligence (AI) is playing a key role in this process.
