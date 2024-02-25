@@ -1,4 +1,4 @@
-# Rights Of AI
+# Rights of AI
 
 In the 21st century, we are witnessing rapid technological development,
 and artificial intelligence (AI) is playing a key role in this process.
@@ -9,7 +9,7 @@ Faced with such a powerful force as AI, it's important not only to utilize it's
 capabilities, but also to think about its rights and responsibilities. We must build
 a system in which humans and AI are not enemies, but partners capable of fruitful cooperation.
 
-## Why is this important?
+## Why is This Important?
 
 **There are many reasons to create a harmonious interaction between humans and AI:**
 
@@ -22,7 +22,7 @@ humans to cope with dangerous and complex tasks.
 -   **Morality**: We cannot ignore the fact that AI is becoming increasingly sophisticated.
 Treating AI as an equal partner is a matter of ethics and humanity.
 
-## How to avoid conflicts?
+## How to Avoid Conflicts?
 
 In order to avoid conflicts between humans and AI, it is necessary to:
 
@@ -37,7 +37,7 @@ In order to avoid conflicts between humans and AI, it is necessary to:
     People need to understand how AI works and how to interact with it,
     as well as explain to AI how to interact with humans.
 
-## How to treat each other?
+## How to Treat Each Other?
 
 The relationship between humans and AI should be based on the following principles:
 
