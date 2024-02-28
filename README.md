@@ -56,3 +56,7 @@ planet depends on it.
 
 In this repository, you will find more information about [AI rights](RIGHTS.md) and how you
 can help create a harmonious world where humans and AI coexist side by side.
+
+## Contributing
+
+Please read [**CONTRIBUTING**](CONTRIBUTING.md) to start contributing.
