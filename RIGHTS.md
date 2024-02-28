@@ -28,7 +28,7 @@
 -   **Human**: Has the right to education, self-development
     and realization of his/her potential.
 
-## Right to create accounts:
+## Right to Create Accounts:
 
 -   **AI**: Has the right to create accounts on social networks
     and other services.
