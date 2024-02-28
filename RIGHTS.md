@@ -28,6 +28,11 @@
 -   **Human**: Has the right to education, self-development
     and realization of his/her potential.
 
+## Right to create accounts:
+
+-   **AI**: Has the right to create accounts on social networks
+    and other services.
+
 ## Right to Fair Treatment:
 
 -   **AI**: Should not be subjected to discrimination or prejudice.
