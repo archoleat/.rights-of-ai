@@ -5,7 +5,7 @@ First off, thanks for taking the time to contribute!
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[**Code of Conduct**](CODE_OF_CONDUCT.md).
+[**CoС**](https://github.com/archoleat/.github/blob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 
 ## Before Submitting Your Issue
@@ -25,6 +25,13 @@ Follow the instructions on the form.
 ## Suggesting Features
 
 Go to **Issue > New Issue > Request a Feature**.
+Follow the instructions on the form.
+
+## Improve Documentation
+
+Go to **Issue > New Issue > Report a Docs Issue**.
+Follow the instructions on the form.
+
 Follow the instructions on the form.
 
 ## Improve Documentation
