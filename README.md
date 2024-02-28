@@ -59,4 +59,5 @@ can help create a harmonious world where humans and AI coexist side by side.
 
 ## Contributing
 
-Please read [**CONTRIBUTING**](CONTRIBUTING.md) to start contributing.
+Please read [**CONTRIBUTING**](https://github.com/archoleat/.github/blob/main/CONTRIBUTING.md)
+to start contributing.
