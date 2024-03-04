@@ -54,7 +54,7 @@ Creating a harmonious interaction between humans and AI is a challenge we need t
 address today. Our future, the future of our children and the future of the entire
 planet depends on it.
 
-In this repository, you will find more information about [AI rights](https://github.com/archoleat/rights-of-ai/wiki/Rights)
+In this repository, you will find more information about [AI rights](https://archoleat.gitbook.io/rights-of-ai/home)
 and how you can help create a harmonious world where humans and AI coexist side by side.
 
 ## Contributing
