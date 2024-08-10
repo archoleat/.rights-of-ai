@@ -61,3 +61,7 @@ and how you can help create a harmonious world where humans and AI coexist side 
 
 Please read [**CONTRIBUTING**](https://github.com/archoleat/.github/blob/main/CONTRIBUTING.md)
 to start contributing.
+
+## License
+
+This project is licensed under the [**MPL-2.0 license**](LICENSE).
