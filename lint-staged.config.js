@@ -1,3 +1,3 @@
 export default {
-  '**/*.md': 'remark --quiet --frail'
+  '*.md': 'remark --quiet --frail'
 };

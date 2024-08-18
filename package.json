@@ -1,8 +1,4 @@
 {
-  "scripts": {
-    "lint:editorconfig": "editorconfig-checker",
-    "lint:md": "remark . --quiet --frail"
-  },
   "devDependencies": {
     "@archoleat/commitlint-define-config": "^1.0.9",
     "@commitlint/cli": "^19.4.0",
