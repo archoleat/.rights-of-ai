@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@archoleat/commitlint-define-config": "^1.0.9",
+    "@archoleat/commitlint-define-config": "^1.0.10",
     "@commitlint/cli": "^19.4.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@commitlint/types": "^19.0.3",
