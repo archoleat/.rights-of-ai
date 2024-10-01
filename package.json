@@ -3,7 +3,7 @@
     "@archoleat/commitlint-define-config": "^1.0.11",
     "@commitlint/cli": "^19.4.1",
     "@commitlint/config-conventional": "^19.4.1",
-    "@commitlint/types": "^19.0.3",
+    "@commitlint/types": "^19.5.0",
     "editorconfig-checker": "^5.1.8",
     "git-pull-run": "^1.4.0",
     "husky": "^9.1.5",
